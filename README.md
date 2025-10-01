@@ -61,7 +61,7 @@ This will process your PDFs and store embeddings in the chroma/ folder.
    streamlit run query.py
 
 
-3. Ask Questions
+3. Ask Questions Like:
 
 Enter your question in the chat input
 
@@ -70,7 +70,7 @@ The model will answer using ONLY the provided PDFs
 Sources are displayed with page numbers and download buttons
 
 
-🧪 Example Queries
+🧪 Example Queries:
 
 "What are the latest treatments for type 2 diabetes?"
 
@@ -79,7 +79,7 @@ Sources are displayed with page numbers and download buttons
 "How does insulin resistance affect the body?"
 
 
-🔧 Customization
+🔧 Customization:
 
 Replace the PDFs in the data/ folder to use your own dataset
 
