@@ -19,18 +19,6 @@ You can easily replace the PDFs with your own dataset (e.g., other medical topic
 
 ---
 
-## 📂 Project Structure
-
-├── chroma/ # Local ChromaDB storage
-├── data/ # Folder for your PDF files
-├── .env # Store your OPENAI_API_KEY here
-├── make_db.py # Script to process and index PDFs
-├── query.py # Streamlit chatbot app
-├── diabetes_rag_chatbot_1.png # Screenshot for README
-└── README.md # Project documentation
-
----
-
 ## ⚙️ Installation
 
 1. Clone this repo and navigate to the project folder:
